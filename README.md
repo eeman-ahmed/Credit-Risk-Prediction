@@ -1,7 +1,7 @@
 # Credit-Risk-Prediction
 
 ## Overview
-This project predicts whether a loan applicant is likely to default on a loan using the Kaggle Loan Prediction Dataset.
+This project predicts whether a loan applicant is likely to default on a loan using the Kaggle Loan Prediction Dataset (https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan).
 
 I practiced:
 - Data cleaning (handling missing values: median for numeric, mode for categorical)
