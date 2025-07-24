@@ -1,7 +1,5 @@
 # Credit-Risk-Prediction
 
-# Credit Risk Prediction (Loan Default Classification)
-
 ## Overview
 This project predicts whether a loan applicant is likely to default on a loan using the Kaggle Loan Prediction Dataset.
 
