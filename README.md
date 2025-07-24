@@ -25,7 +25,6 @@ I practiced:
 - Both models correctly identified most approvals but struggled with rejections (Class 0).
 
 ## Visuals
-![ROC Curve](visuals/roc_curve.png)  
 *ROC Curve Comparison for Logistic Regression and Decision Tree.*
 
 ## How to Run
